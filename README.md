@@ -1,4 +1,4 @@
 # 🚨 This Project Has Moved 🚨
 
-This repo has moved to the [eyeglass monorepo](https://github.com/linkedin/eyeglass).
+The Broccoli eyeglass plugin has moved to the [eyeglass monorepo](https://github.com/linkedin/eyeglass/tree/master/packages/broccoli-eyeglass).
 
